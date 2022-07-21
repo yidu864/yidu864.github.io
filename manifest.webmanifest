@@ -1,0 +1,26 @@
+{
+  "name": "yidu864's blog",
+  "short_name": "yidu864",
+  "description": "yidu864's blog",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2d3746",
+  "theme_color": "#377bb5",
+  "icons": [
+    {
+      "src": "/imgs/logo/android-chrome-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/imgs/logo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/imgs/logo/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

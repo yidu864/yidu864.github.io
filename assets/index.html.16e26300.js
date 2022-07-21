@@ -1,0 +1,1 @@
+const e={key:"v-f0388862",path:"/links/",title:"Links",lang:"zh-CN",frontmatter:{layout:"Links",title:"Links",links:[{title:"\u9E23\u8C22",items:[{sitename:"Renovamen",url:"https://zxh.io",img:"https://zxh.io/img/avatar.jpg",desc:"vuepress theme Gungnir \u4F5C\u8005"}]}]},excerpt:"",headers:[],git:{updatedTime:1647784077e3},filePathRelative:"links/readme.md"};export{e as data};

@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" width="180" height="180">
+	<title>apple-touch-icon</title>
+	<style>
+		tspan { white-space:pre }
+		.body { fill: #ffffff } 
+		.mouse { fill: #f98230 } 
+		.eye { fill: #5c5c5e } 
+	</style>
+	<path id="body" class="body" d="M37 180C37 180 29.58 146.14 50 130C70.42 113.86 88.42 79.89 91 73C93.58 66.11 96 64.36 95 52C95 52 95.92 45.78 84 45C84 45 88.58 32.97 102 34C115.42 35.03 119.33 51.55 119 58C118.67 64.45 115.92 77.89 112 83C108.08 88.11 86.08 134.97 90 138C93.92 141.03 124.83 137.36 180 168.28L180 180L37 180Z" />
+	<path id="mouse" class="mouse" d="M66 63C66 63 82.5 52.75 84.08 45.2C84.08 45.2 103.58 40.36 90.92 73.7C89.75 76.78 69.42 71.05 67 67C64.58 62.95 66 63 66 63Z" />
+	<path id="eye" class="eye" d="M103 45C103 45 99.5 50.91 106 51C112.5 51.09 108.5 41.23 103 45Z" />
+</svg>
